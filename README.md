@@ -8,8 +8,8 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Java-E62429?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-0A1F44?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/instagram-E62429?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/linkedin-0A1F44?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-E62429?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -27,7 +27,7 @@ struct Developer {
 
     let username = "mdismath22-cyber"
 
-    let role = "BCA Student"
+    let role = "AI Student"
 
     let stack = [
         "Java",
@@ -38,7 +38,7 @@ struct Developer {
 
     let inspiration = [
         "Apple Design",
-        "Spider-Man",
+         "Cinephile
         "Clean UI"
     ]
 
